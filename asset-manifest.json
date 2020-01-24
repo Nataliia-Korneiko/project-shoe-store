@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/project-shoe-store/static/css/main.cf418aa9.chunk.css",
+    "main.js": "/project-shoe-store/static/js/main.e216186c.chunk.js",
+    "main.js.map": "/project-shoe-store/static/js/main.e216186c.chunk.js.map",
+    "runtime-main.js": "/project-shoe-store/static/js/runtime-main.e4e94cbb.js",
+    "runtime-main.js.map": "/project-shoe-store/static/js/runtime-main.e4e94cbb.js.map",
+    "static/js/2.5ba235df.chunk.js": "/project-shoe-store/static/js/2.5ba235df.chunk.js",
+    "static/js/2.5ba235df.chunk.js.map": "/project-shoe-store/static/js/2.5ba235df.chunk.js.map",
+    "index.html": "/project-shoe-store/index.html",
+    "precache-manifest.fc42d4b52966b293fd139fa11aeedd60.js": "/project-shoe-store/precache-manifest.fc42d4b52966b293fd139fa11aeedd60.js",
+    "service-worker.js": "/project-shoe-store/service-worker.js",
+    "static/css/main.cf418aa9.chunk.css.map": "/project-shoe-store/static/css/main.cf418aa9.chunk.css.map",
+    "static/js/2.5ba235df.chunk.js.LICENSE": "/project-shoe-store/static/js/2.5ba235df.chunk.js.LICENSE",
+    "static/media/best-seller-01.jpg": "/project-shoe-store/static/media/best-seller-01.c4fb9690.jpg",
+    "static/media/index.css": "/project-shoe-store/static/media/roboto-v20-latin-regular.60fa3c06.woff",
+    "static/media/photo-01-left.jpg": "/project-shoe-store/static/media/photo-01-left.72bed90f.jpg",
+    "static/media/photo-01-right.jpg": "/project-shoe-store/static/media/photo-01-right.62f5d506.jpg",
+    "static/media/photo-02-left.jpg": "/project-shoe-store/static/media/photo-02-left.068ec18e.jpg",
+    "static/media/photo-02-right.jpg": "/project-shoe-store/static/media/photo-02-right.ca52b666.jpg",
+    "static/media/photo-03-left.jpg": "/project-shoe-store/static/media/photo-03-left.9688b360.jpg",
+    "static/media/photo-03-right.jpg": "/project-shoe-store/static/media/photo-03-right.aad7ee7f.jpg",
+    "static/media/photo-04-left.jpg": "/project-shoe-store/static/media/photo-04-left.5b059007.jpg",
+    "static/media/photo-04-right.jpg": "/project-shoe-store/static/media/photo-04-right.7ae1ecf8.jpg",
+    "static/media/photo-05-left.jpg": "/project-shoe-store/static/media/photo-05-left.ca8c6f0a.jpg",
+    "static/media/photo-05-right.jpg": "/project-shoe-store/static/media/photo-05-right.8086fe24.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4e94cbb.js",
+    "static/js/2.5ba235df.chunk.js",
+    "static/css/main.cf418aa9.chunk.css",
+    "static/js/main.e216186c.chunk.js"
+  ]
+}
