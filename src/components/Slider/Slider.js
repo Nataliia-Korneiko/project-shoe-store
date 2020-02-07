@@ -10,10 +10,7 @@ import photo04left from '../../img/slider/photo-04-left.jpg';
 import photo04right from '../../img/slider/photo-04-right.jpg';
 import photo05left from '../../img/slider/photo-05-left.jpg';
 import photo05right from '../../img/slider/photo-05-right.jpg';
-
-import './slider.css';
-
-// --------------------Slider-------------------------------------
+import './Slider.css';
 
 class Slider extends React.Component {
   state = {};
