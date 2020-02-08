@@ -1,11 +1,11 @@
 import React from 'react';
-import Loader from 'react-loader-spinner';
+import LoaderComponent from 'react-loader-spinner';
 import s from './Loader.module.css';
 
-const LoaderComponent = () => {
+const Loader = () => {
   return (
     <div className={s.loader}>
-      <Loader
+      <LoaderComponent
         type="Puff"
         color="#82f4d3"
         height={100}
@@ -16,4 +16,4 @@ const LoaderComponent = () => {
   );
 };
 
-export default LoaderComponent;
+export default Loader;
