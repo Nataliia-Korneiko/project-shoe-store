@@ -1,7 +1,6 @@
 import React from 'react';
 import Slider from '../../components/Slider/Slider';
 import BestSellerSection from '../../components/BestSellerSection/BestSellerSection';
-import Video from '../../components/Video/Video';
 
 const HomePage = () => {
   return (
@@ -9,7 +8,6 @@ const HomePage = () => {
       <main>
         <Slider />
         <BestSellerSection />
-        <Video />
       </main>
     </>
   );
